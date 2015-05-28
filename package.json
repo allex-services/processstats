@@ -15,9 +15,9 @@
     "Service",
     "ProcessStats"
   ],
-  "dependencies" : {
-    "allexcore": "git+ssh://git@gitlab.hers.rs/allex/core"
-    },
+  "dependencies": {
+    "process-monitor": "0.3.0"
+  },
   "author": "HERS Belgrade",
   "license": "ISC"
 }
